@@ -2,4 +2,4 @@
 ### Links
 
 - Solution URL: (https://github.com/AnoshaSohail/social-proof-section-master.git)
-- Live Site URL: (https://anoshasohail.github.io/social-proof-section-master/)
+- Live Site URL: ( https://front-end-mentor-challenge.github.io/social-proof-section/)
